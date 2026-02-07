@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools()
   ],
-  base: "laharish01.github.io",
+  base: "texthooker",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
